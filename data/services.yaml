@@ -49,7 +49,7 @@ coinbase:
   countries: [us]
   location: [us]
   icon: https://coinbase.com/favicon.ico
-  url: https://coinbase.com/
+  url: https://coinbase.com/?r=514b6eb6a18f2fdde50000db&utm_campaign=user-referral&src=referral-link
   content:|
       <p>A PayPal-style Internet wallet. Connect a US bank account to buy bitcoins.</p>
 
